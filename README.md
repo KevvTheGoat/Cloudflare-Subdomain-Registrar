@@ -1,6 +1,6 @@
 # Cloudflare Subdomain Registrar
 
-# This Project has Paused it's development and being Archived Due To A New Project Being Developed [here](https://github.com/KevvTheGoat/Cloudflare-Subdomain-Registrar)
+# This Project has Paused it's development and being Archived Due To A New Project Being Developed [here](https://github.com/KevvTheGoat/KS-Subdomain-Registrar)
 
 A PHP Program For Subdomain Registeration And Management Based On Cloudflare DNS.
 
